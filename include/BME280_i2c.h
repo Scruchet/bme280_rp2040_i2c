@@ -10,6 +10,7 @@
 #define I2C_PORT i2c1
 #define I2C_SDA 2
 #define I2C_SCL 3
+#define I2C_SPEED 100000
 
 #define ADDR _u(0x76)
 #define BME_280_ID _u(0x60)
